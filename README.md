@@ -4,10 +4,10 @@
 <h3>Dosen :</h3>  
 <p>H. Bagja Nugraha, S.T., M.Kom</p>
 
-<h3>Anggota Kelompok</h3> 
+<h3>Anggota Kelompok :</h3> 
 <ol>
   <li>Aida</li>
   <li>Aysia</li>
   <li>Dikky</li>
-  <li>Nara<li>
+  <li>Nara</li>
 </ol>
