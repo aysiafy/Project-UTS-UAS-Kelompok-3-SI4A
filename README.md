@@ -6,8 +6,8 @@
 
 <h3>Anggota Kelompok :</h3> 
 <ol>
-  <li>Aida</li>
-  <li>Aysia</li>
-  <li>Dikky</li>
-  <li>Nara</li>
+  <li>Aida Muflihah</li>
+  <li>Aysia Fatmi Yasmin</li>
+  <li>Dikky Setyanto</li>
+  <li>Ahzka Nabbilah Tuzzahrah</li>
 </ol>
