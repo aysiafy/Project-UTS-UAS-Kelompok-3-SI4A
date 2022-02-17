@@ -5,7 +5,7 @@
 <p align="center">H. Bagja Nugraha, S.T., M.Kom</p>
 
 <h3 align="center">Anggota Kelompok</h3> 
-<ol align="center" list-style-type="none">
+<ol align="center" style="list-style-type: none">
   <li>Aida</li>
   <li>Aysia</li>
   <li>Dikky</li>
